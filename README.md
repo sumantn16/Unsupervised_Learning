@@ -1,8 +1,12 @@
 Here I have considered the Wine dataset.
 The objective of this mini project is: Dimensionality Reduction through Principal Component Analysis(PCA) on the Wine data set.
+
 Data Set -  https://archive.ics.uci.edu/ml/machine-learning-databases/wine/wine.data Links to an external site.
+
 Data details : https://archive.ics.uci.edu/ml/machine-learning-databases/wine/ Links to an external site.
+
 Steps –
+
 PCA involves following broad level steps –
 1.	Standardize the d-dimensional dataset.
 2.	Construct the covariance matrix.
